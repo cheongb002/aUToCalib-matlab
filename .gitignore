@@ -1,0 +1,4 @@
+generated_msgs/*
+.vscode/*
+rosbags*
+*.asv
